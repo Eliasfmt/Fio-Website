@@ -135,7 +135,7 @@ export default function StaffPage() {
 
                 {/* Contact Info */}
                 <div className="text-center w-full">
-                  <h3 className="mb-2 text-xl font-bold text-red-500">Miss Fiorella</h3>
+                  <h3 className="mb-2 text-xl font-bold text-red-500">Miss Zoraida</h3>
                   <p className="mb-1 text-gray-800">
                     <span className="font-semibold">Phone:</span> 801-919-9228
                   </p>
